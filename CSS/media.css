@@ -1,0 +1,122 @@
+@media screen and (max-width:992px){
+    .nav-align{
+        display: none;
+    }
+   
+}
+
+
+/*  */
+
+@media screen and (max-width:992px){
+   .banner h1{
+    font-size: 35px;
+   } 
+   .banner-data p{
+    font-size: 16px;
+   }
+}
+@media screen and (max-width:575px) {
+    .banner-customer-images{
+        display: block;
+    }
+    .banner h1{
+        font-size:26px;
+    }
+}
+/*  */
+@media screen and (max-width:767px) {
+    .howitworks-image img{
+        height: 300px;
+    }
+    .outer-circle{
+        width: 300px;
+        height: 300px;
+    }
+    .howitworks-data h3{
+        font-size: 20px;
+    }
+    .how-it-works-p p{
+        font-size: 16px;
+    }
+    .lg-image{
+        display: none;
+    }
+    .media-image{
+        display: flex;
+        justify-content: center;
+    }
+}
+@media screen and (min-width:768px) {
+    .media-image{
+        display: none;
+    }
+}
+@media screen and (max-width:992px) {
+    .how-it-works-p p{
+     font-size: 16px ;
+    }
+}
+
+/*  */
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .card-review svg{
+        margin-right: 0;
+    }
+    .card-review li{
+        padding-inline-start: 0;
+        font-size: 16px;
+    }
+    .list-diet h3{
+        font-size: 23px;
+    }
+    .list-diet li{
+        font-size: 16px;
+    }
+}
+/*  */
+@media screen and (min-width:576px) and (max-width:992px) {
+    .cutomer-review{
+        font-size: 16px;
+    }
+}
+/*  */
+@media screen and (min-width:768px) and (max-width:992px) {
+    .subscription-details svg{
+        margin-right: 0;
+    }
+    .subscription-details li{
+        font-size: 11px;
+    }
+    .subscription-details{
+        text-align: start;
+    }
+    .card-text{
+        font-size: 10px;
+    }
+    .subscription-end .card-title{
+        font-size: 20px;
+    }
+    .subscription-head h3{
+        font-size: 30px;
+    }
+}
+@media screen  and (max-width:767px) {
+    .subscription-head h3{
+        font-size: 27px;
+    }
+}
+
+/*  */
+@media screen and (max-width:767px){
+    .sign-image{
+        display: none;
+    }
+     
+}
+@media screen and (min-width:768px) {
+    .signup-media-image{
+        display: none;
+    }
+}
